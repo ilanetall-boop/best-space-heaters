@@ -35,5 +35,16 @@
       "ga_id": "G-4N0B9B4QK7"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "slug": "best-space-heaters-for-a-large-room",
+      "title": "The Best Space Heaters for a Large Room",
+      "description": "A 1,500-watt ceiling applies to every plug-in heater, so covering a big room is about how the heat moves, not how much there is. The three that do it, and the claim to ignore.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-large-room",
+      "minutes": 15,
+      "date": "2026-10-11",
+      "featured": true
+    }
+  ]
 }
