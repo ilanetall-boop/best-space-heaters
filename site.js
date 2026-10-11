@@ -1,8 +1,8 @@
 /* Best Space Heaters - site.js: analytics + outbound amazon click tracking.
    Ids come from data/blogs-registry.json via scripts/premium-analytics-sync.js — do not hand-edit. */
 (function(){
-  var GA_ID = "G-8S2SJ0J6EQ";
-  var CLARITY_ID = "y3311nnymr";
+  var GA_ID = "G-4N0B9B4QK7";
+  var CLARITY_ID = "yw2lrz7vfa";
   if(GA_ID){
     var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id="+GA_ID;document.head.appendChild(s);
     window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag("js",new Date());gtag("config",GA_ID);
