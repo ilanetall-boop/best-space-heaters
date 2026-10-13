@@ -45,6 +45,16 @@
       "minutes": 15,
       "date": "2026-10-11",
       "featured": true
+    },
+    {
+      "slug": "best-quiet-space-heaters",
+      "title": "The Quietest Space Heaters You Can Buy",
+      "description": "Noise is the specification almost nobody publishes. The handful of heaters that state a figure or remove the fan entirely, and how to read the silence they promise.",
+      "category": "Roundup",
+      "hero": "hero-best-quiet-space-heaters",
+      "minutes": 15,
+      "date": "2026-10-13",
+      "featured": true
     }
   ]
 }
