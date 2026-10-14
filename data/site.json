@@ -55,6 +55,16 @@
       "minutes": 15,
       "date": "2026-10-13",
       "featured": true
+    },
+    {
+      "slug": "space-heater-running-cost-explained",
+      "title": "What a Space Heater Actually Costs to Run",
+      "description": "Every figure you have read rests on an assumption about your electricity rate. Here is the arithmetic with ours stated in the open, and the comparison that actually matters.",
+      "category": "Honest take",
+      "hero": "hero-space-heater-running-cost-explained",
+      "minutes": 16,
+      "date": "2026-10-14",
+      "featured": true
     }
   ]
 }
