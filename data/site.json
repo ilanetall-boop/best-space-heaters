@@ -75,6 +75,16 @@
       "minutes": 16,
       "date": "2026-10-15",
       "featured": true
+    },
+    {
+      "slug": "ceramic-vs-infrared-vs-oil-filled-heaters",
+      "title": "Ceramic, Infrared or Oil-Filled: Which Heater Type",
+      "description": "All three draw the same 1,500 watts, so this is a question about the experience you want, not about how much heat you get. Three heaters, one of each.",
+      "category": "Comparison",
+      "hero": "hero-ceramic-vs-infrared-vs-oil-filled-heaters",
+      "minutes": 16,
+      "date": "2026-10-16",
+      "featured": true
     }
   ]
 }
