@@ -85,6 +85,16 @@
       "minutes": 16,
       "date": "2026-10-16",
       "featured": true
+    },
+    {
+      "slug": "are-space-heaters-safe-to-leave-on",
+      "title": "Are Space Heaters Safe to Leave On?",
+      "description": "Automatic shut-off, tip-over protection and an ETL mark are standard. What each one actually covers, which habits matter more, and when to replace rather than repair.",
+      "category": "Honest take",
+      "hero": "hero-are-space-heaters-safe-to-leave-on",
+      "minutes": 15,
+      "date": "2026-10-17",
+      "featured": true
     }
   ]
 }
