@@ -95,6 +95,16 @@
       "minutes": 15,
       "date": "2026-10-17",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-under-50",
+      "title": "The Best Space Heaters Under $50",
+      "description": "Below fifty dollars the listings stop publishing anything checkable. Three that still do, and the three questions that separate a bargain from a gamble.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-under-50",
+      "minutes": 15,
+      "date": "2026-10-18",
+      "featured": true
     }
   ]
 }
