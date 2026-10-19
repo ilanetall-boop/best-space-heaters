@@ -105,6 +105,16 @@
       "minutes": 15,
       "date": "2026-10-18",
       "featured": true
+    },
+    {
+      "slug": "space-heater-timers-and-auto-shutoff",
+      "title": "Space Heater Timers: Why Yours Shuts Off",
+      "description": "Some cut out after two hours, some run twelve, a few let you choose. The specification that decides whether a heater suits a desk or a bedroom.",
+      "category": "Buying guide",
+      "hero": "hero-space-heater-timers-and-auto-shutoff",
+      "minutes": 14,
+      "date": "2026-10-19",
+      "featured": true
     }
   ]
 }
