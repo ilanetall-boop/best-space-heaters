@@ -115,6 +115,16 @@
       "minutes": 14,
       "date": "2026-10-19",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-home-office",
+      "title": "The Best Space Heaters for a Home Office",
+      "description": "An office heater warms one person at one desk, which is a smaller job than most heaters are sold for. The three that do it without roasting the room.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-home-office",
+      "minutes": 15,
+      "date": "2026-10-20",
+      "featured": true
     }
   ]
 }
