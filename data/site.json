@@ -125,6 +125,16 @@
       "minutes": 15,
       "date": "2026-10-20",
       "featured": true
+    },
+    {
+      "slug": "best-oscillating-space-heaters",
+      "title": "The Best Oscillating Space Heaters",
+      "description": "Oscillation sounds like a gimmick and is the difference between a warm chair and a warm room. The three that do it widely, and what the arc costs you.",
+      "category": "Roundup",
+      "hero": "hero-best-oscillating-space-heaters",
+      "minutes": 15,
+      "date": "2026-10-21",
+      "featured": true
     }
   ]
 }
