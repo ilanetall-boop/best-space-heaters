@@ -135,6 +135,16 @@
       "minutes": 15,
       "date": "2026-10-21",
       "featured": true
+    },
+    {
+      "slug": "will-a-space-heater-trip-my-breaker",
+      "title": "Will a Space Heater Trip My Breaker?",
+      "description": "1,500 watts is about 12.5 amps on a 15-amp circuit. On its own, fine. Sharing with a kettle, not fine. The arithmetic, and what owners actually report.",
+      "category": "How-to",
+      "hero": "hero-will-a-space-heater-trip-my-breaker",
+      "minutes": 16,
+      "date": "2026-10-22",
+      "featured": true
     }
   ]
 }

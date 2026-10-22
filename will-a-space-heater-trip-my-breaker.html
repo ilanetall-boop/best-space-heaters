@@ -1,0 +1,504 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Will a Space Heater Trip My Breaker?</title>
+<meta name="description" content="1,500 watts is about 12.5 amps on a 15-amp circuit. On its own, fine. Sharing with a kettle, not fine. The arithmetic, and what owners actually report.">
+<link rel="canonical" href="https://best-space-heaters.com/will-a-space-heater-trip-my-breaker">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Best Space Heaters">
+<meta property="og:title" content="Will a Space Heater Trip My Breaker?">
+<meta property="og:description" content="1,500 watts is about 12.5 amps on a 15-amp circuit. On its own, fine. Sharing with a kettle, not fine. The arithmetic, and what owners actually report.">
+<meta property="og:image" content="https://best-space-heaters.com/images/hero-will-a-space-heater-trip-my-breaker.webp">
+<meta property="og:url" content="https://best-space-heaters.com/will-a-space-heater-trip-my-breaker">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Will a Space Heater Trip My Breaker?">
+<meta name="twitter:description" content="1,500 watts is about 12.5 amps on a 15-amp circuit. On its own, fine. Sharing with a kettle, not fine. The arithmetic, and what owners actually report.">
+<meta name="twitter:image" content="https://best-space-heaters.com/images/hero-will-a-space-heater-trip-my-breaker.webp">
+<meta name="theme-color" content="#1c0905">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="alternate icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<style>
+  :root{
+    --ground:#f8f7f1; --surface:#ffffff; --surface-2:#f3ece5;
+    --ink:#26150d; --ink-soft:#4a2d1d; --muted:#856651; --line:#eae0d6;
+    --ember:#a44619; --ember-deep:#712a0c; --ember-tint:#f9ebe4;
+    --brass:#a9803a; --brass-lite:#cfa666; --brass-tint:#f5ecdc;
+    --dark:#1c0905; --dark-2:#31130c; --on-dark:#f5ede6; --on-dark-mute:#c0a291;
+    --star:#d9a400;
+    --shadow:0 1px 2px rgba(35,16,22,.05),0 22px 48px -26px rgba(35,16,22,.32);
+    --shadow-sm:0 1px 2px rgba(35,16,22,.05),0 10px 24px -16px rgba(35,16,22,.26);
+    --radius:20px; --radius-sm:12px; --maxw:1120px;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --ground:#160c05; --surface:#22110a; --surface-2:#2d180e;
+    --ink:#f5ede6; --ink-soft:#e0cbbf; --muted:#b39583; --line:#3f2316;
+    --ember:#f0a871; --ember-deep:#f8c59e; --ember-tint:#2f160c;
+    --brass:#d9b36a; --brass-lite:#e7c98c; --brass-tint:#241c0e;
+    --surface-2b:#2d180e;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 24px 52px -28px rgba(0,0,0,.7);
+    --shadow-sm:0 1px 2px rgba(0,0,0,.4),0 12px 26px -18px rgba(0,0,0,.6);
+  }}
+  :root[data-theme="dark"]{
+    --ground:#160c05; --surface:#22110a; --surface-2:#2d180e;
+    --ink:#f5ede6; --ink-soft:#e0cbbf; --muted:#b39583; --line:#3f2316;
+    --ember:#f0a871; --ember-deep:#f8c59e; --ember-tint:#2f160c;
+    --brass:#d9b36a; --brass-lite:#e7c98c; --brass-tint:#241c0e;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 24px 52px -28px rgba(0,0,0,.7);
+    --shadow-sm:0 1px 2px rgba(0,0,0,.4),0 12px 26px -18px rgba(0,0,0,.6);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);
+    font-size:18px;line-height:1.6;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 26px}
+  a{color:inherit}
+  h1,h2,h3{margin:0;line-height:1.08;letter-spacing:-.01em;text-wrap:balance}
+  .serif{font-family:var(--serif)}
+  p{margin:0 0 1rem}
+  .eyebrow{font-family:var(--sans);font-size:.72rem;font-weight:700;letter-spacing:.22em;text-transform:uppercase}
+  .tnum{font-variant-numeric:tabular-nums}
+  .stars{color:var(--star);letter-spacing:2px}
+
+  /* ---------- header ---------- */
+  header.site{position:sticky;top:0;z-index:30;background:color-mix(in srgb,var(--ground) 82%,transparent);
+    backdrop-filter:saturate(1.3) blur(12px);border-bottom:1px solid var(--line)}
+  .bar{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .brand{display:inline-flex;align-items:center;gap:11px;text-decoration:none;color:var(--ink);font-weight:700;letter-spacing:-.01em}
+  .brand .bn{font-family:var(--serif);font-size:1.16rem}
+  nav.site a{color:var(--muted);text-decoration:none;font-size:.86rem;font-weight:600;letter-spacing:.01em;margin-left:22px;transition:color .2s}
+  nav.site a:hover{color:var(--ink)}
+  @media (max-width:660px){nav.site{display:none}}
+
+  /* ---------- hero (immersive dark, winter light) ---------- */
+  .hero{position:relative;background:radial-gradient(120% 90% at 80% -10%,var(--dark-2),var(--dark) 60%);color:var(--on-dark);overflow:hidden;isolation:isolate}
+  .caustic{position:absolute;inset:-30%;z-index:0;opacity:.5;pointer-events:none;filter:blur(30px);
+    background:
+      radial-gradient(28% 40% at 22% 30%,rgba(232,121,143,.26),transparent 60%),
+      radial-gradient(24% 34% at 74% 24%,rgba(217,179,106,.22),transparent 60%),
+      radial-gradient(30% 42% at 60% 78%,rgba(155,34,71,.30),transparent 62%);
+    animation:drift 22s ease-in-out infinite alternate}
+  .caustic.b{opacity:.35;animation-duration:30s;animation-direction:alternate-reverse;
+    background:
+      radial-gradient(26% 36% at 40% 60%,rgba(243,163,179,.22),transparent 60%),
+      radial-gradient(22% 30% at 85% 70%,rgba(217,179,106,.20),transparent 60%)}
+  @keyframes drift{0%{transform:translate3d(-2%,-1%,0) scale(1)}50%{transform:translate3d(3%,2%,0) scale(1.08)}100%{transform:translate3d(-1%,3%,0) scale(1.04)}}
+  .hero .wrap{position:relative;z-index:1;padding:74px 26px 88px}
+  .hero .eyebrow{color:var(--brass-lite)}
+  .hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(2.5rem,1.4rem+4.6vw,4.7rem);letter-spacing:-.02em;max-width:15ch;margin:.5rem 0 0}
+  .hero h1 em{font-style:italic;color:var(--brass-lite)}
+  .hero .lede{font-size:1.24rem;line-height:1.55;color:var(--on-dark-mute);max-width:52ch;margin-top:1.3rem}
+  .hero .meta{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:26px;font-size:.86rem;color:var(--on-dark-mute)}
+  .hero .meta b{color:var(--on-dark)}
+  .rule{height:1px;background:linear-gradient(90deg,var(--brass),transparent);border:0;margin:26px 0 0;max-width:220px}
+
+  /* ---------- #1 feature (the centerpiece) ---------- */
+  .feature{position:relative;z-index:2;margin:-56px 0 0}
+  .feature .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);
+    display:grid;grid-template-columns:1.1fr 1fr;overflow:hidden}
+  .feature .left{padding:38px}
+  .feature .kick{display:inline-flex;align-items:center;gap:9px;color:var(--brass-text);font-weight:700;font-size:.74rem;letter-spacing:.16em;text-transform:uppercase}
+  .feature .kick::before{content:"";width:26px;height:1px;background:var(--brass)}
+  .feature h2{font-family:var(--serif);font-weight:600;font-size:clamp(1.8rem,1.2rem+2vw,2.7rem);margin:.5rem 0 .2rem}
+  .feature .verdict{color:var(--ink-soft);font-size:1.06rem;margin:.4rem 0 1rem;max-width:44ch}
+  .feature .rl{display:flex;align-items:center;gap:10px;font-size:.92rem;color:var(--muted);margin-bottom:1.2rem;flex-wrap:wrap}
+  .feature .rl b{color:var(--ink)}
+  .btn{display:inline-flex;align-items:center;gap:9px;background:var(--ember);color:#fff;font-weight:700;
+    padding:14px 26px;border-radius:12px;text-decoration:none;box-shadow:var(--shadow-sm);transition:transform .15s,background .2s}
+  .btn:hover{background:var(--ember-deep);transform:translateY(-1px)}
+  .btn .arw{transition:transform .2s}.btn:hover .arw{transform:translateX(3px)}
+  .feature .right{background:linear-gradient(160deg,var(--dark-2),var(--dark));color:var(--on-dark);padding:38px;display:flex;flex-direction:column;justify-content:center;gap:6px;position:relative}
+  .feature .right .lab{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--on-dark-mute)}
+  .feature .bigprice{font-family:var(--serif);font-size:clamp(3rem,2rem+4vw,4.4rem);font-weight:600;line-height:1;color:var(--brass-lite)}
+  .feature .bigprice sup{font-size:.4em;top:-1.2em;color:var(--on-dark)}
+  .feature .right .note{color:var(--on-dark-mute);font-size:.92rem;margin-top:6px;max-width:30ch}
+  .feature .right .mono{margin-top:16px;font-family:var(--serif);font-size:1.05rem;color:var(--on-dark)}
+  @media (max-width:820px){.feature .card{grid-template-columns:1fr}.feature .right{order:-1}}
+
+  /* ---------- generic section ---------- */
+  section{padding:44px 0}
+  .kicker{display:flex;align-items:center;gap:14px;margin-bottom:6px}
+  .kicker .eyebrow{color:var(--ember-deep)}
+  .kicker::after{content:"";flex:1;height:1px;background:var(--line)}
+  .h2{font-family:var(--serif);font-weight:600;font-size:clamp(1.7rem,1.2rem+1.7vw,2.5rem);letter-spacing:-.01em}
+  .sub{color:var(--muted);max-width:62ch;margin:.6rem 0 0}
+
+  .notes{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;margin-top:24px}
+  .notes .n{background:var(--surface);padding:24px}
+  .notes .num{font-family:var(--serif);font-size:1.5rem;color:var(--brass-text);line-height:1}
+  .notes h3{font-size:1.02rem;font-weight:750;margin:.5rem 0 .35rem}
+  .notes p{font-size:.9rem;color:var(--muted);margin:0}
+  @media (max-width:820px){.notes{grid-template-columns:1fr 1fr}}
+  @media (max-width:520px){.notes{grid-template-columns:1fr}}
+
+  /* comparison */
+  .tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);background:var(--surface);margin-top:22px}
+  table{border-collapse:collapse;width:100%;min-width:740px;font-size:.94rem}
+  thead th{background:var(--surface-2);text-align:left;padding:16px;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line)}
+  td{padding:15px 16px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:var(--surface-2)}
+  td.name{font-family:var(--serif);font-weight:600;font-size:1.05rem}
+  .win td{background:var(--brass-tint)}
+  .win td.name{color:var(--brass-text)}
+  .win td:first-child{box-shadow:inset 3px 0 0 var(--brass)}
+  .price{font-weight:800;font-variant-numeric:tabular-nums}
+  .rev{color:var(--muted);font-size:.82rem}
+  .tget{display:inline-block;background:var(--ink);color:var(--surface);font-weight:700;font-size:.8rem;padding:8px 14px;border-radius:9px;text-decoration:none;white-space:nowrap;transition:background .2s}
+  .tget:hover{background:var(--ember-deep);color:#fff}
+
+  /* picks (editorial cards) */
+  .picks{display:flex;flex-direction:column;gap:26px;margin-top:26px}
+  .pick{display:grid;grid-template-columns:96px 1fr auto;gap:26px;align-items:start;
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:28px}
+  .pick .rank{font-family:var(--serif);font-size:2.6rem;color:var(--brass-text);line-height:.9;font-weight:600}
+  .pick .rank small{display:block;font-family:var(--sans);font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:700;margin-top:8px}
+  .pick h3{font-family:var(--serif);font-weight:600;font-size:1.44rem}
+  .pick .who{color:var(--ember-deep);font-weight:700;font-size:.9rem;margin:.25rem 0 .5rem}
+  .pick .rl2{display:flex;align-items:center;gap:8px;font-size:.86rem;color:var(--muted);margin-bottom:.7rem;flex-wrap:wrap}
+  .pick .rl2 b{color:var(--ink)}
+  .pick p.body{margin:.2rem 0 0;color:var(--ink-soft)}
+  .quote{border-left:2px solid var(--brass);padding-left:14px;margin:.9rem 0 0;font-family:var(--serif);font-style:italic;color:var(--ink);font-size:1.02rem}
+  .aside{display:flex;flex-direction:column;align-items:flex-end;gap:12px;text-align:right;min-width:150px}
+  .aside .pr{font-family:var(--serif);font-size:2rem;font-weight:600;font-variant-numeric:tabular-nums;line-height:1}
+  .aside .tag{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+  .buy{display:inline-flex;align-items:center;gap:8px;background:var(--ember);color:#fff;font-weight:700;padding:11px 20px;border-radius:10px;text-decoration:none;transition:background .2s,transform .15s;font-size:.92rem}
+  .buy:hover{background:var(--ember-deep);transform:translateY(-1px)}
+  @media (max-width:820px){.pick{grid-template-columns:64px 1fr}.aside{grid-column:1/-1;flex-direction:row;justify-content:space-between;align-items:center;text-align:left;border-top:1px solid var(--line);padding-top:16px}}
+
+  /* method / faq */
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:22px}
+  @media (max-width:760px){.cols{grid-template-columns:1fr}}
+  .panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;box-shadow:var(--shadow-sm)}
+  .panel .eyebrow{color:var(--ember-deep)}
+  .panel h3{font-family:var(--serif);font-weight:600;font-size:1.3rem;margin:.5rem 0 .5rem}
+  .panel p{color:var(--muted);margin:0}
+  .faq details{border-top:1px solid var(--line);padding:16px 0}
+  .faq details:first-of-type{border-top:0}
+  .faq summary{cursor:pointer;font-family:var(--serif);font-size:1.12rem;list-style:none;display:flex;justify-content:space-between;gap:14px;color:var(--ink)}
+  .faq summary::-webkit-details-marker{display:none}
+  .faq summary::after{content:"+";color:var(--brass-text);font-family:var(--sans);font-weight:700}
+  .faq details[open] summary::after{content:"–"}
+  .faq p{margin:.8rem 0 0;color:var(--muted)}
+
+  footer.site{margin-top:20px;background:var(--dark);color:var(--on-dark-mute)}
+  footer .wrap{padding:40px 26px}
+  footer .fbrand{font-family:var(--serif);color:var(--on-dark);font-size:1.2rem}
+  footer p{font-size:.84rem;margin:.6rem 0 0;max-width:80ch}
+  footer a{color:var(--brass-lite)}
+  /* imagery */
+  .hero .wrap{display:grid;grid-template-columns:1.12fr .88fr;gap:48px;align-items:center}
+  .hero .himg{border-radius:20px;border:1px solid rgba(207,166,102,.4);box-shadow:0 30px 60px -30px rgba(0,0,0,.55);width:100%;height:auto;display:block}
+  @media (max-width:860px){.hero .wrap{grid-template-columns:1fr;gap:30px}}
+  .fpimg{background:#fff;border-radius:14px;padding:14px;box-shadow:0 12px 28px -14px rgba(0,0,0,.5);width:min(230px,70%);margin-bottom:16px}
+  .fpimg img{width:100%;height:auto;display:block}
+  .aside .pimg{width:150px;height:150px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:10px;display:flex;align-items:center;justify-content:center}
+  .aside .pimg img{max-width:100%;max-height:100%;display:block}
+  @media (max-width:820px){.aside .pimg{width:96px;height:96px;padding:6px}}
+  td.name{display:flex;align-items:center;gap:12px}
+  .thumb{width:46px;height:46px;flex:0 0 auto;background:#fff;border:1px solid var(--line);border-radius:9px;padding:4px}
+  .thumb img{width:100%;height:100%;object-fit:contain;display:block}
+  :focus-visible{outline:2px solid var(--ember);outline-offset:3px;border-radius:5px}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;scroll-behavior:auto!important}.btn:hover,.buy:hover{transform:none}}
+</style>
+<style>
+  .artmain{max-width:68ch;margin:0 auto;padding:36px 0 8px}
+  .artmain h2{font-family:var(--serif);font-weight:600;font-size:clamp(1.5rem,1.1rem+1.4vw,2.15rem);letter-spacing:-.01em;margin:2.5rem 0 .85rem}
+  .artmain h3{font-family:var(--serif);font-weight:600;font-size:1.22rem;margin:1.9rem 0 .5rem}
+  .artmain p{color:var(--ink-soft);font-size:1.06rem;line-height:1.68}
+  .artmain ul,.artmain ol{color:var(--ink-soft);font-size:1.06rem;line-height:1.68;padding-left:1.15rem;margin:0 0 1.1rem}
+  .artmain li{margin:.45rem 0}
+  .artmain p a,.artmain li a{color:var(--ember-deep);font-weight:600;text-underline-offset:3px}
+  .artmain p a:hover,.artmain li a:hover{color:var(--ember)}
+  .byline{color:var(--muted);font-size:.9rem;margin:0 0 1.2rem}
+  .disclosure{font-size:.86rem;color:var(--muted);border-left:2px solid var(--brass);padding:2px 0 2px 14px;margin:0 0 1.8rem}
+  .tldr{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-sm);box-shadow:var(--shadow-sm);padding:24px 26px;margin:0 0 1.6rem}
+  .tldr .eyebrow{color:var(--ember-deep)}
+  .tldr p{margin:.7rem 0 0;color:var(--ink)}
+  .tldr p:first-of-type{margin-top:.6rem}
+  .callout{background:var(--ember-tint);border-radius:var(--radius-sm);padding:20px 24px;margin:1.6rem 0}
+  .callout p{margin:0;color:var(--ink)}
+  .callout p+p{margin-top:.7rem}
+  .keep{border-top:1px solid var(--line);margin-top:2.6rem;padding-top:1.6rem}
+  .keep .eyebrow{color:var(--ember-deep)}
+  .keep ul{list-style:none;padding:0;margin:1rem 0 0}
+  .keep li{margin:.85rem 0}
+  .keep li a{font-family:var(--serif);font-size:1.1rem;font-weight:600;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+  .keep li a:hover{border-bottom-color:var(--ember)}
+  .keep li span{display:block;color:var(--muted);font-size:.9rem;margin-top:.2rem}
+  .zonebar{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius-sm);overflow:hidden;margin:1.6rem 0}
+  .zonebar div{background:var(--surface);padding:20px 22px}
+  .zonebar h4{margin:0 0 .4rem;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--ember-deep)}
+  .zonebar p{margin:0;font-size:.95rem;color:var(--ink-soft)}
+  @media (max-width:640px){.zonebar{grid-template-columns:1fr}}
+  .artmain .sig{color:var(--muted);font-size:.92rem;font-style:italic;border-top:1px solid var(--line);padding-top:1.2rem;margin-top:2.2rem}
+</style>
+<style id="a11y">:root{--brass-text:#7a5e28;--star:#b07e00}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--brass-text:#e7c98c;--star:#e8b84b}}:root[data-theme="dark"]{--brass-text:#e7c98c;--star:#e8b84b}nav.site a{color:var(--ink-soft)}.stars{color:var(--star)}thead th{color:var(--ink-soft)}.rev{color:var(--ink-soft)}.kick{color:var(--brass-text)}.win td.name{color:var(--brass-text)}a.btn,a.buy,.btn,.buy{background:#974116 !important;color:#fff !important;text-decoration:none !important}a.btn:hover,a.buy:hover,.btn:hover,.buy:hover{background:#712a0c !important}@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) a.btn,:root:not([data-theme="light"]) a.buy,:root:not([data-theme="light"]) .btn,:root:not([data-theme="light"]) .buy{background:#f5c39e !important;color:#2e1607 !important}:root:not([data-theme="light"]) .btn:hover,:root:not([data-theme="light"]) .buy:hover{background:#fbd7bc}}:root[data-theme="dark"] a.btn,:root[data-theme="dark"] a.buy,:root[data-theme="dark"] .btn,:root[data-theme="dark"] .buy{background:#f5c39e !important;color:#2e1607 !important}</style>
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "yw2lrz7vfa");
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4N0B9B4QK7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());gtag('config', 'G-4N0B9B4QK7');</script>
+</head>
+<body>
+<header class="site"><div class="wrap bar">
+  <a class="brand" href="/" aria-label="Best Space Heaters">
+    <svg class="logomark" width="36" height="36" viewBox="0 0 40 40" aria-hidden="true">
+      <defs><radialGradient id="lm" cx="34%" cy="26%" r="86%"><stop offset="0" stop-color="#ad4c1a"/><stop offset=".7" stop-color="#712a0c"/><stop offset="1" stop-color="#2e110a"/></radialGradient></defs>
+      <circle cx="20" cy="20" r="19" fill="url(#lm)"/>
+      <circle cx="20" cy="20" r="18.4" fill="none" stroke="#cfa666" stroke-width="1.1" stroke-opacity=".92"/>
+      <circle cx="20" cy="20" r="15.3" fill="none" stroke="#f5ede6" stroke-width=".6" stroke-opacity=".22"/>
+      <path d="M14.6 13v13.4" fill="none" stroke="#f8f4f1" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M20 13v13.4" fill="none" stroke="#f8f4f1" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M25.4 13v13.4" fill="none" stroke="#f8f4f1" stroke-width="2.5" stroke-linecap="round"/>
+            <path d="M12.6 29.4h14.8" fill="none" stroke="#cfa666" stroke-width="1.7" stroke-linecap="round"/>
+    </svg>
+    <span class="bn">Best&thinsp;Space&thinsp;Heaters</span>
+  </a>
+  <nav class="site" aria-label="Primary">
+    <a href="/#feature">Top pick</a><a href="/#compare">Compare</a><a href="/#picks">The six</a><a href="/#how">Method</a><a href="/#faq">FAQ</a>
+  <a href="/guides">All guides</a></nav>
+</div></header>
+
+<a id="top"></a>
+<div class="hero">
+  <div class="caustic" aria-hidden="true"></div><div class="caustic b" aria-hidden="true"></div>
+  <div class="wrap">
+    <div>
+      <span class="eyebrow">How-To &middot; Circuits &amp; Breakers</span>
+      <h1 class="serif">Will a space heater trip my <em>breaker</em>?</h1>
+      <p class="lede">A standard US space heater runs at roughly 1,500 watts, which on a 120-volt circuit works out to about 12.5 amps &mdash; already most of what a 15-amp breaker is rated to carry. On its own, that's a non-issue. Add a kettle, a hair dryer or a second heater to the same circuit and the arithmetic stops being forgiving. We walked through the actual numbers, where owners say breakers really trip, and when a tripping breaker is doing exactly its job.</p>
+      <div class="meta"><span>By <b>Ilane Tall</b></span><span>Updated <b>October 22, 2026</b></span><span><b>Research-based</b> &mdash; no testing lab, no invented scores</span></div>
+      <hr class="rule">
+    </div>
+    <img class="himg" src="/images/hero-will-a-space-heater-trip-my-breaker.webp" alt="Close-up of a space heater's power cord plugged into a white wall outlet, the cable running down a plain wall" width="1600" height="900" loading="eager" fetchpriority="high" decoding="async">
+  </div>
+</div>
+
+<div class="wrap">
+<main class="artmain">
+
+  <p class="byline">By Ilane Tall &middot; Updated October 22, 2026 &middot; Research-based.</p>
+  <p class="disclosure">Reader-supported: we may earn a commission when you buy through the links on this page, at no additional cost to you. It never changes which product we recommend. Prices quoted below were correct at the time of writing and move often.</p>
+
+  <div class="tldr">
+    <span class="eyebrow">Quick answer</span>
+    <p>A single 1,500-watt space heater, on its own dedicated circuit, will not trip a correctly wired 15-amp breaker &mdash; it draws about 12.5 amps, under the 15-amp rating with some margin to spare. What trips the breaker is almost always something sharing the same circuit: a kettle, a toaster, a hair dryer, a window AC unit, or a second heater, all pulling from the same 15 or 20 amps at once.</p>
+    <p>If you don't know what shares your heater's circuit, or the breaker has already tripped once, the safer move is either a dedicated outlet or a heater you can run on a lower, roughly 750-watt setting rather than full power. <a href="#arithmetic">See the actual math</a>, or jump to <a href="#repeated-trips">what a repeatedly tripping breaker is telling you</a>.</p>
+  </div>
+
+  <h2 id="watts-amps">Watts, amps, and what "15-amp circuit" actually means</h2>
+
+  <p>Every outlet in a US home sits on a circuit protected by a breaker in the electrical panel, and that breaker has a rated capacity in amps &mdash; almost always 15 or 20 for a general living space, printed right on the breaker switch itself. The breaker's job is simple: if the current flowing through that circuit exceeds its rating for more than a few seconds, it trips and cuts power, before the wiring behind the wall gets hot enough to be a fire risk. It is a safety device working correctly, not a flaw in your house.</p>
+
+  <p>Wattage and amperage are related by one of the few pieces of electrical arithmetic worth memorizing: amps equal watts divided by volts. US household circuits run at a nominal 120 volts, so a device's amp draw is its wattage divided by 120. A 1,500-watt heater draws 1,500 &divide; 120 = 12.5 amps. A 1,000-watt hair dryer draws about 8.3 amps. A 1,800-watt microwave draws 15 amps almost exactly &mdash; its entire rated output, alone, on a 15-amp circuit.</p>
+
+  <p>There's also a safety margin baked into the numbers that matters more than most buyers realize. Electrical codes in the US generally treat a continuously running load &mdash; anything drawing current for three hours or more, which describes a space heater left on through an evening or a night &mdash; as safe only up to about 80% of a circuit's rated capacity. For a 15-amp circuit, that's 12 amps as the comfortable continuous ceiling, not the full 15. A heater drawing 12.5 amps is already sitting essentially at that line on its own, which is exactly why it has so little room left to share the circuit with anything else.</p>
+
+  <h2 id="arithmetic">The arithmetic for one heater</h2>
+
+  <p>Run the numbers on the three heaters covered in this guide and the pattern is consistent, because nearly every plug-in space heater sold for a US outlet is built to the same ceiling. The <strong>WINHL Space Heater</strong>'s own listing states 1,500 watts, which is 12.5 amps on a 120-volt circuit. The <strong>Amazon Basics Portable Oil Radiator Heater</strong> also states 1,500 watts in its title, the same 12.5 amps at its top setting. The <strong>Dr Infrared Heater DR-968</strong> states 1,500 watts as well, and its own product data goes further and states the amp draw directly: roughly 12.5 amps.</p>
+
+  <p>That consistency isn't a coincidence or a marketing choice any one of these three brands made independently. A 1,500-watt heater on a dedicated 15-amp circuit is drawing about 83% of the breaker's total rating, and close to the 80% continuous-load guideline described above. It is not an overload on its own &mdash; this is precisely the load class a 15-amp residential circuit is designed and rated to carry &mdash; but it is also not a device with meaningful headroom left over. One heater, run alone, on a circuit with nothing else plugged in, is the scenario these numbers are built for.</p>
+
+  <p>What changes the outcome isn't the heater. It's everything else that circuit is also carrying at the same moment, which is the part most owners don't check before the breaker trips for the first time.</p>
+
+  <h2 id="shared-circuit">What else is on that circuit</h2>
+
+  <p>A circuit breaker protects a circuit, not a room, and a circuit is not the same thing as "the outlets on this wall." Older homes in particular often wire two or three rooms, or a bedroom and an adjoining hallway, onto a single 15-amp breaker, which means a heater plugged into what looks like its own private outlet may actually be sharing capacity with a lamp, a phone charger and a box fan in the next room over &mdash; loads small enough on their own to go unnoticed.</p>
+
+  <p>The combinations that actually trip breakers, based on the wattage math above, tend to be specific and repeatable rather than random:</p>
+
+  <ul>
+    <li><strong>An electric kettle or coffee maker</strong> &mdash; commonly 1,200 to 1,500 watts on its own, which stacked on a running 1,500-watt heater can put a shared 15-amp circuit at 20+ amps in the time it takes the kettle to boil.</li>
+    <li><strong>A hair dryer</strong> &mdash; typically 1,200 to 1,875 watts, almost always used in a bathroom that may share a circuit with an adjacent bedroom.</li>
+    <li><strong>A toaster or toaster oven</strong> &mdash; often 1,100 to 1,800 watts, usually on a kitchen circuit that a heater has no business sharing in the first place.</li>
+    <li><strong>A window air conditioner</strong> left plugged in off-season, or a second space heater in a connecting room &mdash; both draw in the same 1,000&ndash;1,500-watt range as the heater itself.</li>
+    <li><strong>A vacuum cleaner</strong> &mdash; a short but sharp 1,000&ndash;1,400-watt draw that, combined with a heater already running, is a common reason a breaker trips mid-chore rather than mid-evening.</li>
+  </ul>
+
+  <p>None of these appliances is unusual or faulty. The problem is purely additive: two 1,200-to-1,500-watt loads on the same 15-amp circuit add up to 20 to 25 amps, well past both the breaker's hard rating and the 80% continuous-load guideline covered above. The fix isn't a better heater &mdash; it's knowing, before you plug one in, what else that outlet's breaker is also feeding. The clearest way to check is at the panel itself: plug the heater in, turn it on, then flip breakers one at a time (with everything else in the house left as it is) until the heater's outlet goes dead. Whatever breaker did that is the one you need to respect.</p>
+
+  <h2 id="extension-lead">Why an extension lead is the wrong answer</h2>
+
+  <div class="callout">
+    <p>A standard indoor extension cord is not rated for the sustained, near-maximum current a space heater draws, and running one anyway is one of the most consistent causes of heater-related house fires reported by US fire safety agencies &mdash; not a rare edge case.</p>
+  </div>
+
+  <p>The instinct is understandable: the outlet in the room you're trying to heat is inconveniently far from where you want the heater to sit, so a 10- or 15-foot extension cord seems like the easy fix. The problem is wire gauge, not convenience. A space heater drawing 12.5 amps continuously needs a conductor thick enough to carry that current without the cord itself heating up, and most household extension cords &mdash; especially the thin, lightweight kind sold for lamps and phone chargers &mdash; are not built to that gauge. Run 12.5 amps through an undersized cord for an evening and the cord's insulation can get hot enough to soften, melt, or in the worst cases ignite, long before the circuit breaker ever sees a reason to trip.</p>
+
+  <p>There's a second, quieter failure mode even with a heavier-gauge cord: voltage drop. A long, coiled or bundled extension cord adds resistance, which can reduce the voltage actually reaching the heater, which in turn can make the heater draw slightly more current to compensate &mdash; and a tightly coiled cord traps whatever heat that extra resistance generates, rather than letting it dissipate into open air. Every space heater manufacturer's own safety literature says the same thing for exactly this reason: plug the unit directly into a wall outlet, never into an extension cord or a power strip, and never into an outlet shared with another high-wattage appliance. That instruction is on the heater's own box for a reason grounded in exactly the wattage and wire-gauge math covered above &mdash; it isn't boilerplate caution.</p>
+
+  <p>If the outlet really is too far from where you need heat, the fix is a licensed electrician adding a properly rated outlet where you need one, not a cord bridging the gap. It's a real cost against a genuinely rare but serious risk, which is the trade worth making.</p>
+
+  <h2 id="worked-examples">Three heaters, the same math, three different footnotes</h2>
+
+  <p>The three heaters below aren't ranked against each other on heat output &mdash; at 1,500 watts apiece, they're functionally tied on the number that matters for this guide. What differs is what each listing does and doesn't tell you about how that wattage is delivered, which is worth reading before you decide where to plug one in.</p>
+
+  <div class="picks" style="margin-top:10px">
+    <article class="pick">
+      <div class="rank">01<small>Full power, one fixed draw</small></div>
+      <div>
+        <h3 class="serif">WINHL Space Heater with Thermostat</h3>
+        <p class="who">Thermostat cycling, not a lower-wattage setting</p>
+        <div class="rl2"><b>1,500 Watt</b><span>&middot;</span><b>Thermostat</b><span>&middot;</span><b>16.4&Prime; / 70&deg; Oscillation</b><span>&middot;</span><span>~12.5 amps</span></div>
+        <p class="body">Its own listing states 1,500 watts, the same 12.5-amp draw as the other two heaters here, controlled by a built-in thermostat rather than a selectable low setting. A thermostat cycles the full 1,500-watt element on and off to hold a target temperature &mdash; it doesn't reduce the wattage of a single "on" cycle, so while it's actively heating, it's drawing the same 12.5 amps as any other 1,500-watt unit. Useful to know if you were assuming "has a thermostat" meant "has a lower-power mode" &mdash; the two are different specs, and this listing only confirms the first one.</p>
+        <p class="quote">Treat it as a full-circuit heater whenever its element is actually running, thermostat or not.</p>
+      </div>
+      <div class="aside">
+        <span class="pimg"><img src="/images/amazon-B0F8VH3TKQ.webp" alt="WINHL space heater for indoor use with thermostat, 1500 watt electric heater" width="150" height="150" loading="lazy" decoding="async"></span>
+        <div><span class="tag">Price</span><div class="pr">$39.99</div></div>
+        <a class="buy" href="https://www.amazon.com/dp/B0F8VH3TKQ?tag=bestspace-heaters-20" rel="nofollow sponsored noopener" target="_blank">Check price &rarr;</a>
+      </div>
+    </article>
+    <article class="pick">
+      <div class="rank">02<small>Stated settings, unstated wattages</small></div>
+      <div>
+        <h3 class="serif">Amazon Basics Portable Oil Radiator Heater</h3>
+        <p class="who">Three heat settings &mdash; only the top one is a confirmed number</p>
+        <div class="rl2"><b>1,500 Watt max</b><span>&middot;</span><b>3 Heat Settings</b><span>&middot;</span><b>7 Oil-Filled Fins</b><span>&middot;</span><span>Tip-Over Protection</span></div>
+        <p class="body">The listing's own title states "3 Heat Settings" alongside a 1,500-watt maximum, which strongly implies lower-wattage options exist below full power &mdash; oil-filled radiators in this class commonly do. What the listing data we have doesn't do is break out the wattage of each of those three settings individually, so we're not going to invent, say, a 600 or 900-watt figure to fill the gap. If running this heater on a genuinely lower, amp-saving setting matters for your circuit, check the current listing or the unit's own control panel for the exact wattage of each setting before relying on it.</p>
+        <p class="quote">The settings exist on paper; only the current listing or the heater itself confirms what each one actually draws.</p>
+      </div>
+      <div class="aside">
+        <span class="pimg"><img src="/images/amazon-B07HGFB3FQ.webp" alt="Amazon Basics portable oil-filled radiator space heater, white, with three heat settings" width="150" height="150" loading="lazy" decoding="async"></span>
+        <div><span class="tag">Price</span><div class="pr">$86.19</div></div>
+        <a class="buy" href="https://www.amazon.com/dp/B07HGFB3FQ?tag=bestspace-heaters-20" rel="nofollow sponsored noopener" target="_blank">Check price &rarr;</a>
+      </div>
+    </article>
+    <article class="pick">
+      <div class="rank">03<small>The one that states its own amp draw</small></div>
+      <div>
+        <h3 class="serif">Dr Infrared Heater DR-968</h3>
+        <p class="who">1,500 watts and roughly 12.5 amps, stated outright</p>
+        <div class="rl2"><b>Infrared quartz + PTC</b><span>&middot;</span><b>1,500 Watt</b><span>&middot;</span><b>~12.5 amps</b><span>&middot;</span><span>Cherry cabinet</span></div>
+        <p class="body">Rather than leaving the amp draw as an inference from wattage, the DR-968's own product data states it directly: roughly 12.5 amps at full output. That's the same number every 1,500-watt heater on a 120-volt circuit works out to by the watts-over-volts arithmetic above, but having it confirmed in the listing itself removes any doubt &mdash; and it's a useful reminder that 12.5 amps is close enough to a 15-amp breaker's limit that this heater, like the other two, wants an outlet it isn't sharing with another large appliance.</p>
+        <p class="quote">A straightforward confirmation of the exact math this guide is built around, from the manufacturer itself.</p>
+      </div>
+      <div class="aside">
+        <span class="pimg"><img src="/images/amazon-B002QZ11J6.webp" alt="Dr Infrared Heater DR-968 portable space heater, cherry cabinet" width="150" height="150" loading="lazy" decoding="async"></span>
+        <div><span class="tag">Price</span><div class="pr">$104.99</div></div>
+        <a class="buy" href="https://www.amazon.com/dp/B002QZ11J6?tag=bestspace-heaters-20" rel="nofollow sponsored noopener" target="_blank">Check price &rarr;</a>
+      </div>
+    </article>
+  </div>
+
+  <p>For a different three-way split of the same heater market &mdash; by noise rather than circuit load &mdash; <a href="/best-quiet-space-heaters">the best quiet space heaters</a> covers heaters chosen for a bedroom or office where sound matters more than wattage.</p>
+
+  <h2 id="half-power">Using a 750-watt setting deliberately</h2>
+
+  <p>Half of 1,500 watts is 750 watts, which on the same 120-volt arithmetic works out to about 6.25 amps &mdash; roughly half the current draw of running a heater at full power. That's simple enough math to be worth internalizing on its own, independent of any one product's listing: a heater run on a genuine low or half-power setting leaves meaningfully more headroom on a shared circuit than the same heater at full output, since it's no longer sitting close to a 15-amp breaker's limit even with something else plugged into the same circuit.</p>
+
+  <p>This matters most in exactly the situation the earlier sections describe: a bedroom or home office circuit you already know shares capacity with something else, where swapping to a lower setting is the practical compromise between "no heat at all" and "risk tripping the breaker at 2am." A heater running at roughly 750 watts, plus a hair dryer at 1,200 watts, adds up to about 16.25 amps combined &mdash; still tight on a 15-amp circuit, but a different conversation than the roughly 25 amps two full-power 1,500-watt devices would draw together.</p>
+
+  <p>The catch, covered honestly in the product notes above, is that not every listing states the wattage of its lower settings. The Amazon Basics radiator's three heat settings are a documented example of exactly this gap: the feature plainly exists, but the specific lower-wattage numbers aren't broken out in the listing data we have. A heater with a thermostat, like the WINHL, is a different case again &mdash; thermostat cycling pauses the full 1,500-watt element entirely between cycles rather than running it continuously at a reduced wattage, so it isn't the same thing as a true low-power setting even though both can feel similar to live with. Before counting on a "low" setting to meaningfully reduce amp draw, confirm the setting's actual wattage on the current listing or the unit's own control panel, rather than assuming "low" automatically means roughly half.</p>
+
+  <h2 id="repeated-trips">What a repeatedly tripping breaker is telling you</h2>
+
+  <p>A breaker tripping once, the first time you run a space heater on an unfamiliar circuit, is mostly just information: something on that circuit, combined with the heater, exceeded the breaker's rating, and now you know to separate the two. Flip the breaker back and don't repeat the exact combination that tripped it, and that's usually the end of it.</p>
+
+  <p>A breaker that trips repeatedly on the heater alone &mdash; with nothing else obviously running on that circuit &mdash; is a different signal, and it's worth taking seriously rather than just resetting it again and moving on. A few honest possibilities, roughly in order of how common they are:</p>
+
+  <div class="zonebar">
+    <div>
+      <h4>Likely, and fixable without an electrician</h4>
+      <p>Something you didn't realize shares the circuit really is running &mdash; a refrigerator cycling on, a window unit left plugged in, a second heater in a connecting room. Unplug everything else on that circuit and test the heater alone before assuming the wiring itself is at fault.</p>
+    </div>
+    <div>
+      <h4>Possible, and worth a licensed electrician</h4>
+      <p>The breaker itself is worn out and tripping below its rated capacity, the circuit is genuinely undersized for a modern 1,500-watt appliance, or there's a loose connection generating heat independent of total current draw. Any of these can look identical to "the heater is too much for this outlet" from the outside.</p>
+    </div>
+  </div>
+
+  <p>What a tripping breaker is never telling you is that the breaker is broken in a way you should work around by resetting it repeatedly, using a higher-rated replacement breaker than the circuit's wiring is rated for, or bypassing it with an extension cord to a different outlet. Each of those removes the exact safety margin described at the top of this guide, in favor of making the symptom go away rather than the underlying overload. A breaker that keeps tripping with nothing unusual plugged in is doing its job; the job that's left is finding out why, which in a genuinely borderline case means an electrician checking the circuit's actual rated capacity and condition, not another reset of the switch.</p>
+
+  <p>For the related question of whether it's safe to let a heater run for hours unattended once the circuit itself checks out, see <a href="/are-space-heaters-safe-to-leave-on">are space heaters safe to leave on</a>; for what that running time actually costs on the electric bill, see <a href="/space-heater-running-cost-explained">what a space heater actually costs to run</a>.</p>
+
+  <h2 id="method">How we picked</h2>
+
+  <p>We started from our own database of space heaters listed for sale in the US and chose three 1,500-watt units that illustrate different parts of the breaker question &mdash; a thermostat-controlled heater, a multi-setting oil radiator, and a heater whose own listing states its amp draw directly &mdash; rather than three near-identical towers that would make the same point three times over.</p>
+
+  <h2 id="compared">How we compared</h2>
+
+  <p>We compared the three heaters on their published titles, available specifications and current Amazon prices, and worked the watts-to-amps arithmetic from each one's stated wattage using the standard 120-volt US household figure. Where a listing states an amp draw directly, as the Dr Infrared DR-968's does, we quote that figure rather than only the calculated one. Where a listing implies a feature &mdash; such as the Amazon Basics radiator's three heat settings &mdash; without stating the specific numbers behind it, we say so plainly rather than estimate a figure to fill the gap.</p>
+
+  <p>We do not run a testing lab. We do not own these three heaters and have not plugged them into a live circuit with a clamp meter ourselves, so you will not find an invented amp reading or a score out of ten anywhere on this page. We also don't show star ratings, review counts or paraphrased owner sentiment, because we don't have manufacturer-published figures for these specific listings &mdash; a limitation of the data available to us, not a judgment on the heaters themselves. The circuit guidance above reflects general, published US electrical-code conventions for residential 15-amp circuits, not a claim specific to any one of these three products.</p>
+
+  <h2 id="faq">Frequently asked questions</h2>
+
+  <h3>How many amps does a 1,500-watt space heater draw?</h3>
+  <p>About 12.5 amps, on the standard 120-volt US household circuit: 1,500 watts divided by 120 volts equals 12.5 amps. That's close to the 80% continuous-load guideline most electrical codes apply to a 15-amp circuit, which is 12 amps, meaning a single 1,500-watt heater alone on a dedicated circuit is near, but still under, the safe sustained limit.</p>
+
+  <h3>Can I run a space heater and a hair dryer on the same circuit?</h3>
+  <p>Usually not safely at the same time. A 1,500-watt heater at 12.5 amps plus a hair dryer at 1,200 to 1,875 watts, roughly 10 to 15.6 amps, together exceed a 15-amp circuit's rating almost immediately. If the two share a circuit, the safer approach is running one at a time, or moving the heater to a confirmed separate circuit.</p>
+
+  <h3>Is it safe to plug a space heater into an extension cord?</h3>
+  <p>No, and every major heater manufacturer's own safety instructions say so directly. A space heater's near-15-amp continuous draw needs a wire gauge most household extension cords aren't built to carry, and the cord's insulation overheating &mdash; not the breaker tripping &mdash; is one of the most common causes of heater-related house fires. Plug directly into a wall outlet instead.</p>
+
+  <h3>What does it mean if my breaker keeps tripping with the same heater?</h3>
+  <p>Most often, it means something else is drawing current on that same circuit, even if it isn't obvious from the room you're in &mdash; test the heater with everything else on that circuit unplugged. If it still trips with nothing else running, treat that as a sign to have the circuit checked by a licensed electrician rather than resetting the breaker repeatedly; the breaker tripping is the safety feature working, not a fault to work around.</p>
+
+  <div class="keep">
+    <span class="eyebrow">Keep reading</span>
+    <ul>
+      <li><a href="/space-heater-running-cost-explained">What a space heater actually costs to run</a><span>The same wattage math applied to your electric bill instead of your breaker panel.</span></li>
+      <li><a href="/space-heater-timers-and-auto-shutoff">Space heater timers: why yours shuts off</a><span>A different safety spec, for a room you won't be watching all night.</span></li>
+      <li><a href="/best-space-heaters-under-50">The best space heaters under $50</a><span>Budget picks, including which ones still state a clear wattage and amp figure.</span></li>
+    </ul>
+    <p style="margin-top:1.4rem"><a href="/">See our top space heater pick</a> or browse <a href="/guides">every guide on the site</a>.</p>
+  </div>
+
+  <p class="sig">Written by Ilane Tall. Research-based comparisons of published specifications, current prices and public product data &mdash; we do not physically test these units and we do not publish invented scores.</p>
+
+</main>
+</div>
+
+<footer class="site"><div class="wrap">
+  <div class="fbrand">Best Space Heaters</div>
+  <p>Independent, research-based comparisons of electric space heaters.</p>
+  <p style="margin:.5rem 0 0"><a href="/about">About</a> &middot; <a href="/guides">All guides</a> &middot; <a href="/contact">Contact</a> &middot; <a href="/privacy">Privacy</a></p>
+  <p>Reader-supported: we may earn a commission when you buy through our links, at no additional cost to you. Comparisons are based on published specs and verified customer reviews; we do not physically test products. Prices change frequently — confirm the current price on Amazon before buying. As an Amazon Associate, we earn from qualifying purchases. © 2026 Best Space Heaters.</p>
+</div></footer>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Will a Space Heater Trip My Breaker?","description":"1,500 watts is about 12.5 amps on a 15-amp circuit. On its own, fine. Sharing with a kettle, not fine. The arithmetic, and what owners actually report.","image":"https://best-space-heaters.com/images/hero-will-a-space-heater-trip-my-breaker.webp","author":{"@type":"Person","name":"Ilane Tall"},"publisher":{"@type":"Organization","name":"Best Space Heaters","url":"https://best-space-heaters.com/"},"datePublished":"2026-10-22","dateModified":"2026-10-22","mainEntityOfPage":{"@type":"WebPage","@id":"https://best-space-heaters.com/will-a-space-heater-trip-my-breaker"},"inLanguage":"en-US"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+ {"@type":"Question","name":"How many amps does a 1,500-watt space heater draw?","acceptedAnswer":{"@type":"Answer","text":"About 12.5 amps, on the standard 120-volt US household circuit: 1,500 watts divided by 120 volts equals 12.5 amps. That's close to the 80% continuous-load guideline most electrical codes apply to a 15-amp circuit, which is 12 amps, meaning a single 1,500-watt heater alone on a dedicated circuit is near, but still under, the safe sustained limit."}},
+ {"@type":"Question","name":"Can I run a space heater and a hair dryer on the same circuit?","acceptedAnswer":{"@type":"Answer","text":"Usually not safely at the same time. A 1,500-watt heater at 12.5 amps plus a hair dryer at 1,200 to 1,875 watts, roughly 10 to 15.6 amps, together exceed a 15-amp circuit's rating almost immediately. If the two share a circuit, the safer approach is running one at a time, or moving the heater to a confirmed separate circuit."}},
+ {"@type":"Question","name":"Is it safe to plug a space heater into an extension cord?","acceptedAnswer":{"@type":"Answer","text":"No, and every major heater manufacturer's own safety instructions say so directly. A space heater's near-15-amp continuous draw needs a wire gauge most household extension cords aren't built to carry, and the cord's insulation overheating is one of the most common causes of heater-related house fires. Plug directly into a wall outlet instead."}},
+ {"@type":"Question","name":"What does it mean if my breaker keeps tripping with the same heater?","acceptedAnswer":{"@type":"Answer","text":"Most often, it means something else is drawing current on that same circuit, even if it isn't obvious from the room you're in. If it still trips with everything else on that circuit unplugged, treat that as a sign to have the circuit checked by a licensed electrician rather than resetting the breaker repeatedly; the breaker tripping is the safety feature working, not a fault to work around."}}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","name":"How to tell if a space heater will trip your breaker","step":[
+ {"@type":"HowToStep","name":"Find the heater's stated wattage","text":"Check the heater's own listing or nameplate for its wattage — almost all US plug-in space heaters run at roughly 1,500 watts."},
+ {"@type":"HowToStep","name":"Convert watts to amps","text":"Divide the wattage by 120 volts to get the amp draw. A 1,500-watt heater draws about 12.5 amps, close to a 15-amp breaker's limit on its own."},
+ {"@type":"HowToStep","name":"Identify what else shares the circuit","text":"Plug in and run the heater, then unplug other appliances on the same circuit one at a time, or check at the breaker panel, to see what else is drawing current alongside it."},
+ {"@type":"HowToStep","name":"Choose full power or a lower setting","text":"On a circuit you know is shared with another appliance, use a confirmed lower wattage setting if the heater has one, rather than running it at full 1,500-watt output."},
+ {"@type":"HowToStep","name":"Treat a repeat trip as a signal, not a nuisance","text":"If the breaker trips again with nothing else plugged in, have the circuit checked by a licensed electrician rather than resetting it repeatedly."}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","name":"Heaters referenced in Will a Space Heater Trip My Breaker","itemListElement":[
+ {"@type":"ListItem","position":1,"item":{"@type":"Product","name":"WINHL Space Heaters for Indoor Use with Thermostat, 1500W Electric Heater","brand":{"@type":"Brand","name":"WINHL"},"image":"https://best-space-heaters.com/images/amazon-B0F8VH3TKQ.webp","offers":{"@type":"Offer","priceCurrency":"USD","price":"39.99","availability":"https://schema.org/InStock","url":"https://www.amazon.com/dp/B0F8VH3TKQ?tag=bestspace-heaters-20"}}},
+ {"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Amazon Basics Portable Oil Radiator Heater, Indoor Use, 3 Heat Settings, 1500W","brand":{"@type":"Brand","name":"Amazon Basics"},"image":"https://best-space-heaters.com/images/amazon-B07HGFB3FQ.webp","offers":{"@type":"Offer","priceCurrency":"USD","price":"86.19","availability":"https://schema.org/InStock","url":"https://www.amazon.com/dp/B07HGFB3FQ?tag=bestspace-heaters-20"}}},
+ {"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Dr Infrared Heater DR-968 Portable Space Heater, 1500-Watt, Cherry","brand":{"@type":"Brand","name":"Dr Infrared Heater"},"image":"https://best-space-heaters.com/images/amazon-B002QZ11J6.webp","offers":{"@type":"Offer","priceCurrency":"USD","price":"104.99","availability":"https://schema.org/InStock","url":"https://www.amazon.com/dp/B002QZ11J6?tag=bestspace-heaters-20"}}}
+]}
+</script>
+
+<script src="/site.js" defer></script>
+</body>
+</html>
