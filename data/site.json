@@ -155,6 +155,16 @@
       "minutes": 16,
       "date": "2026-10-23",
       "featured": true
+    },
+    {
+      "slug": "space-heater-vs-central-heating-cost",
+      "title": "Space Heater or Turn Up the Thermostat?",
+      "description": "The honest comparison is not heater versus nothing. It is one warm room versus a warm house, and the answer depends on how many rooms you actually use.",
+      "category": "Comparison",
+      "hero": "hero-space-heater-vs-central-heating-cost",
+      "minutes": 14,
+      "date": "2026-10-24",
+      "featured": true
     }
   ]
 }
