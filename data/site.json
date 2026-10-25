@@ -165,6 +165,16 @@
       "minutes": 14,
       "date": "2026-10-24",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-with-a-thermostat",
+      "title": "Space Heaters With a Real Thermostat (and Why It Matters)",
+      "description": "Three power settings is not a thermostat. The difference shows up on your bill and in how the room feels at four in the morning.",
+      "category": "Buying guide",
+      "hero": "hero-best-space-heaters-with-a-thermostat",
+      "minutes": 15,
+      "date": "2026-10-25",
+      "featured": true
     }
   ]
 }
