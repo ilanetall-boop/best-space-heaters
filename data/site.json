@@ -175,6 +175,16 @@
       "minutes": 15,
       "date": "2026-10-25",
       "featured": true
+    },
+    {
+      "slug": "space-heaters-with-a-remote-control",
+      "title": "Space Heaters With a Remote Control: Worth the Extra $10?",
+      "description": "A remote adds a few dollars to the price and lets you change the setting without leaving the couch. What it does not change, and the three that do it well.",
+      "category": "Buying guide",
+      "hero": "hero-space-heaters-with-a-remote-control",
+      "minutes": 13,
+      "date": "2026-10-26",
+      "featured": true
     }
   ]
 }
