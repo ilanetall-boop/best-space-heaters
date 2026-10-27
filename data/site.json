@@ -185,6 +185,16 @@
       "minutes": 13,
       "date": "2026-10-26",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-nursery",
+      "title": "The Best Space Heaters for a Nursery",
+      "description": "A nursery heater has to be silent, impossible for a toddler to reach the dial on, and never hot to the touch. The three that meet all three, and the ones we ruled out.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-nursery",
+      "minutes": 14,
+      "date": "2026-10-27",
+      "featured": true
     }
   ]
 }
