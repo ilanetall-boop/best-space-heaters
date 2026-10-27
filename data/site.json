@@ -29,7 +29,12 @@
         "priority": "0.3"
       }
     ],
-    "network_card": null,
+    "network_card": {
+      "href": "https://best-heated-blankets.com/",
+      "category": "From our network",
+      "title": "Warm the person, not the whole room",
+      "description": "A heated blanket draws a small fraction of the 1,500 watts a space heater pulls. Our sister site compares them on auto-off timers, running cost, washing, and whether they are safe to sleep with."
+    },
     "analytics": {
       "clarity_id": "yw2lrz7vfa",
       "ga_id": "G-4N0B9B4QK7"
