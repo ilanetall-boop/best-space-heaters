@@ -200,6 +200,16 @@
       "minutes": 14,
       "date": "2026-10-27",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-garage-or-workshop",
+      "title": "The Best Space Heaters for a Garage or Workshop",
+      "description": "An uninsulated garage loses heat as fast as a heater adds it. The three builds that still make a dent, and why a plug-in heater is not a substitute for insulation.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-garage-or-workshop",
+      "minutes": 16,
+      "date": "2026-10-28",
+      "featured": true
     }
   ]
 }
