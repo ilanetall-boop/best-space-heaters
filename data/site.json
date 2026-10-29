@@ -210,6 +210,16 @@
       "minutes": 16,
       "date": "2026-10-28",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-50-to-100-dollars",
+      "title": "The Best Space Heaters Between $50 and $100",
+      "description": "Above $50 the thermostats get more precise and the housings get sturdier. Three heaters in this bracket that are worth the jump, and what the next $50 buys.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-50-to-100-dollars",
+      "minutes": 15,
+      "date": "2026-10-29",
+      "featured": true
     }
   ]
 }
