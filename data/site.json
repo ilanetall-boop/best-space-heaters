@@ -220,6 +220,16 @@
       "minutes": 15,
       "date": "2026-10-29",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-rvs-and-small-spaces",
+      "title": "The Best Space Heaters for RVs, Campers and Tiny Rooms",
+      "description": "A full-size tower does not fit a camper van. The three smallest, lightest heaters in the catalogue, and the amp draw that matters more than usual on a 15-amp hookup.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-rvs-and-small-spaces",
+      "minutes": 14,
+      "date": "2026-10-30",
+      "featured": true
     }
   ]
 }
