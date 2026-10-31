@@ -230,6 +230,16 @@
       "minutes": 14,
       "date": "2026-10-30",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-homes-with-pets",
+      "title": "The Best Space Heaters for Homes With Pets",
+      "description": "A heater that a cat can tip over or a dog can chew is not safe in a home with either. The three built for both, and the habits that matter more than the model.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-homes-with-pets",
+      "minutes": 14,
+      "date": "2026-10-31",
+      "featured": true
     }
   ]
 }
