@@ -240,6 +240,16 @@
       "minutes": 14,
       "date": "2026-10-31",
       "featured": true
+    },
+    {
+      "slug": "how-many-watts-does-your-room-need",
+      "title": "How Many Watts Does Your Room Actually Need?",
+      "description": "A 500-watt desk heater and a 1,500-watt stove are not competing products; they are sized for different jobs. The arithmetic that matches wattage to a room.",
+      "category": "Buying guide",
+      "hero": "hero-how-many-watts-does-your-room-need",
+      "minutes": 15,
+      "date": "2026-11-01",
+      "featured": true
     }
   ]
 }
