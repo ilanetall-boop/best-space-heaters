@@ -250,6 +250,16 @@
       "minutes": 15,
       "date": "2026-11-01",
       "featured": true
+    },
+    {
+      "slug": "tower-vs-compact-space-heaters",
+      "title": "Tower or Compact: Which Footprint Fits Your Room",
+      "description": "A tower throws air across a room from a narrow base; a compact cube sits under a desk and warms what is in front of it. The shape question nobody asks before buying.",
+      "category": "Comparison",
+      "hero": "hero-tower-vs-compact-space-heaters",
+      "minutes": 14,
+      "date": "2026-11-02",
+      "featured": true
     }
   ]
 }
