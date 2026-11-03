@@ -260,6 +260,16 @@
       "minutes": 14,
       "date": "2026-11-02",
       "featured": true
+    },
+    {
+      "slug": "space-heaters-with-tilt-vs-oscillation",
+      "title": "Tilt or Oscillate: The Two Ways a Space Heater Aims Its Heat",
+      "description": "Most heaters either sweep side to side or stay pointed exactly where you set them. One heater in this catalog does the second with a published angle, and it changes where the warmth actually lands.",
+      "category": "Comparison",
+      "hero": "hero-space-heaters-with-tilt-vs-oscillation",
+      "minutes": 14,
+      "date": "2026-11-03",
+      "featured": true
     }
   ]
 }
