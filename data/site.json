@@ -280,6 +280,16 @@
       "minutes": 15,
       "date": "2026-11-04",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-rental-apartment",
+      "title": "The Best Space Heaters for a Rental Apartment",
+      "description": "No permission to touch the thermostat, a security deposit on the line, and a lease that says nothing about portable heat. Three heaters built for moving in and moving out.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-rental-apartment",
+      "minutes": 15,
+      "date": "2026-11-05",
+      "featured": true
     }
   ]
 }
