@@ -290,6 +290,16 @@
       "minutes": 15,
       "date": "2026-11-05",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-over-100-dollars",
+      "title": "The Best Space Heaters Over $100: What the Extra Money Buys",
+      "description": "Most of this catalog tops out under $90. The three that cross into three figures do it for a reason — a real wattage ceiling, a rated square footage, or a wall installation — not a nicer logo.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-over-100-dollars",
+      "minutes": 15,
+      "date": "2026-11-06",
+      "featured": true
     }
   ]
 }
