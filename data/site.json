@@ -300,6 +300,16 @@
       "minutes": 15,
       "date": "2026-11-06",
       "featured": true
+    },
+    {
+      "slug": "is-it-safe-to-use-a-space-heater-in-a-bathroom",
+      "title": "Is It Safe to Use a Space Heater in a Bathroom?",
+      "description": "Water, a confined room, and a 1,500-watt appliance. The GFCI rule that actually matters, the placement that avoids it entirely, and the three heaters small enough to make it work.",
+      "category": "How-to",
+      "hero": "hero-is-it-safe-to-use-a-space-heater-in-a-bathroom",
+      "minutes": 16,
+      "date": "2026-11-07",
+      "featured": true
     }
   ]
 }
