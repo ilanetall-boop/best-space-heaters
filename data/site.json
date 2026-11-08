@@ -310,6 +310,16 @@
       "minutes": 16,
       "date": "2026-11-07",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-basement",
+      "title": "The Best Space Heaters for a Basement",
+      "description": "An unfinished basement is colder, damper and bigger than the room upstairs it's compared to. The three heaters rated to actually move air across it.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-basement",
+      "minutes": 14,
+      "date": "2026-11-08",
+      "featured": true
     }
   ]
 }
