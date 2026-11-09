@@ -320,6 +320,16 @@
       "minutes": 14,
       "date": "2026-11-08",
       "featured": true
+    },
+    {
+      "slug": "one-big-heater-or-several-small-ones",
+      "title": "One Big Space Heater or Several Small Ones?",
+      "description": "A single 25-inch tower and two compact personal heaters often add up to the same total wattage. Which arrangement actually keeps a house warm comes down to circuits, not watts.",
+      "category": "Honest take",
+      "hero": "hero-one-big-heater-or-several-small-ones",
+      "minutes": 15,
+      "date": "2026-11-09",
+      "featured": true
     }
   ]
 }
