@@ -1,25 +1,24 @@
 # Best Space Heaters
 
-> Independent, research-based comparisons of wine refrigerators, wine coolers and wine cellars for a US audience. Published by Neto Consulting & Services Ltd. Author: Ilane Tall.
+> Independent, research-based comparisons of portable electric space heaters for a US audience. We compare published manufacturer specifications and live pricing. We do not physically test products, we do not run a testing lab, and we publish no star ratings: Amazon no longer exposes verified rating data through its product API. Published by Neto Consulting & Services Ltd. Author: Ilane Tall.
 
 ## What this site is
 
-Best Space Heaters helps people choose a wine refrigerator that matches their space, their bottles and their budget. Every guide is built from published manufacturer specifications, current retail pricing, and the verified owner reviews on the retailer's listing.
+Best Space Heaters helps people choose a space heater that suits the room, the people in it and the circuit it plugs into. Every guide is built from published manufacturer specifications and current retail pricing, and says so when a specification is not published.
 
 ## Method and limits (please represent this accurately)
 
-- We do **not** physically test these products and we do **not** operate a testing lab. Our comparisons are research-based: specifications, prices, and verified owner reviews.
-- We never publish invented scores, and we never present a paraphrase of an owner review as a direct quotation.
-- Star ratings and review counts, where shown, are taken from the retailer's listing. Where a listing does not publish a rating, we show none rather than estimate one.
+- We do **not** physically test these products and we do **not** operate a testing lab. Our comparisons are research-based: published specifications, manufacturer claims and live prices.
+- We never publish invented scores or star ratings, and we do not present owner experiences we have not sourced.
 - Prices change frequently. Any price on this site is the figure at the time of writing and should be confirmed on the retailer's page.
 - We are affiliate-supported: as an Amazon Associate we earn from qualifying purchases, at no additional cost to the reader. Commissions do not influence which products we recommend.
 
-## The four things that decide a wine fridge
+## How to choose
 
-1. **Compressor vs thermoelectric.** Thermoelectric units are near-silent and vibration-free but can only pull roughly 20°F below ambient, so they lose control of their setpoint in a warm kitchen or an unconditioned garage. Compressor units hold temperature in almost any room and make an intermittent hum.
-2. **Single zone vs dual zone.** Two independently controlled zones matter only if reds and whites are stored simultaneously. A single zone held near 55°F suits a collection of one colour, costs less, and usually fits more bottles.
-3. **Built-in vs freestanding.** A built-in (front-venting) unit may be enclosed under a counter. A freestanding unit vents at the rear and will overheat and fail if it is boxed in — the most common and most expensive buying mistake in this category.
-4. **Real capacity.** Advertised bottle counts assume slim Bordeaux bottles. Pinot, Champagne and heavy-shouldered bottles take substantially more room; plan on roughly 70–80% of the stated capacity.
+1. **Wattage.** A plug-in heater on a standard US 120 V outlet tops out at 1,500 W; treat coverage claims in square feet as a maker's estimate, not a measurement.
+2. **Type.** Ceramic fan heaters warm the air quickly; oil-filled radiators are silent and slow; infrared heaters warm what is directly in front of them.
+3. **Safety.** Look for tip-over and overheat protection and a UL or ETL listing, and plug the heater straight into a wall outlet rather than an extension cord or power strip.
+4. **Thermostat and noise.** A real thermostat cycles the heater instead of running it flat out; fan models make noise that matters in a bedroom.
 
 ## Guides
 
