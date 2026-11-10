@@ -330,6 +330,16 @@
       "minutes": 15,
       "date": "2026-11-09",
       "featured": true
+    },
+    {
+      "slug": "space-heaters-with-app-or-alexa-control",
+      "title": "Space Heaters You Can Control With an App or Alexa: Is Smart Worth It?",
+      "description": "Only one heater in this catalogue answers to a phone app or a voice command; the rest top out at a remote. What the $130 wall-mounted model's scheduling and Alexa support actually buys over a $36-$50 remote.",
+      "category": "Buying guide",
+      "hero": "hero-space-heaters-with-app-or-alexa-control",
+      "minutes": 16,
+      "date": "2026-11-10",
+      "featured": true
     }
   ]
 }
