@@ -340,6 +340,16 @@
       "minutes": 16,
       "date": "2026-11-10",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-home-gym",
+      "title": "The Best Space Heaters for a Home Gym",
+      "description": "A home gym needs warmth before a workout and none of it once you're moving. The three oscillating heaters built to heat the room fast and get out of the way of a cardio routine.",
+      "category": "Roundup",
+      "hero": "hero-best-space-heaters-for-a-home-gym",
+      "minutes": 16,
+      "date": "2026-11-11",
+      "featured": true
     }
   ]
 }
