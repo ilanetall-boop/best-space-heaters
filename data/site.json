@@ -370,6 +370,16 @@
       "minutes": 16,
       "date": "2026-11-13",
       "featured": true
+    },
+    {
+      "slug": "best-space-heaters-for-a-college-dorm",
+      "title": "The Best Space Heaters for a College Dorm (That Pass Fire Code)",
+      "description": "Most campuses ban exposed-coil heaters and anything without a UL or ETL mark outright, and plenty cap wattage below 1,500. Three enclosed-element heaters built small enough to actually get past a dorm inspection.",
+      "category": "Buying guide",
+      "hero": "hero-best-space-heaters-for-a-college-dorm",
+      "minutes": 16,
+      "date": "2026-11-14",
+      "featured": true
     }
   ]
 }
