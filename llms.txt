@@ -23,6 +23,7 @@ Best Space Heaters helps people choose a space heater that suits the room, the p
 ## Guides
 
 <!--LLMS-GUIDES:START-->
+- [How Fast Do Space Heaters Actually Heat Up? Reading the Seconds Claims](https://best-space-heaters.com/how-fast-do-space-heaters-actually-heat-up): 'Warmth in 2 seconds' describes the element, not the room. Two heaters that publish a heat-up number, one oil-filled radiator that doesn't pretend to be fast, and what each timeline really means for how long you wait.
 - [The Best Space Heaters for a College Dorm (That Pass Fire Code)](https://best-space-heaters.com/best-space-heaters-for-a-college-dorm): Most campuses ban exposed-coil heaters and anything without a UL or ETL mark outright, and plenty cap wattage below 1,500. Three enclosed-element heaters built small enough to actually get past a dorm inspection.
 - [The Best Space Heaters for Allergies and Dust-Sensitive Homes](https://best-space-heaters.com/best-space-heaters-for-allergies-and-dust): A fan-driven heater moves the dust on your floor as readily as it moves warm air. The two fanless oil-filled radiators in the catalogue, and the one fan heater worth it if you need faster heat.
 - [The Best Space Heaters for a Sunroom or Enclosed Porch](https://best-space-heaters.com/best-space-heaters-for-a-sunroom-or-porch): A room with more glass than wall loses heat the moment the sun goes down. The three heaters rated for the largest coverage area, built to fight a draft a bedroom heater never has to face.

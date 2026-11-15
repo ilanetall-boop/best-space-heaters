@@ -380,6 +380,16 @@
       "minutes": 16,
       "date": "2026-11-14",
       "featured": true
+    },
+    {
+      "slug": "how-fast-do-space-heaters-actually-heat-up",
+      "title": "How Fast Do Space Heaters Actually Heat Up? Reading the Seconds Claims",
+      "description": "'Warmth in 2 seconds' describes the element, not the room. Two heaters that publish a heat-up number, one oil-filled radiator that doesn't pretend to be fast, and what each timeline really means for how long you wait.",
+      "category": "Honest take",
+      "hero": "hero-how-fast-do-space-heaters-actually-heat-up",
+      "minutes": 15,
+      "date": "2026-11-15",
+      "featured": true
     }
   ]
 }
