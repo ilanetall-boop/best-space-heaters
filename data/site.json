@@ -390,6 +390,16 @@
       "minutes": 15,
       "date": "2026-11-15",
       "featured": true
+    },
+    {
+      "slug": "are-electric-space-heaters-safe-from-carbon-monoxide",
+      "title": "Are Electric Space Heaters Safe From Carbon Monoxide?",
+      "description": "Every heater in this catalogue runs on electric resistance, not combustion, which means none of them produce carbon monoxide — a real risk with kerosene and propane heaters, not this category. What that actually means, and the one gas appliance in the house still worth a detector for.",
+      "category": "Honest take",
+      "hero": "hero-are-electric-space-heaters-safe-from-carbon-monoxide",
+      "minutes": 16,
+      "date": "2026-11-16",
+      "featured": true
     }
   ]
 }
