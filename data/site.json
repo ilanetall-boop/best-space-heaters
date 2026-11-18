@@ -410,6 +410,16 @@
       "minutes": 16,
       "date": "2026-11-17",
       "featured": true
+    },
+    {
+      "slug": "best-oil-filled-radiator-heaters",
+      "title": "The Best Oil-Filled Radiator Heaters",
+      "description": "Oil-filled radiators used to mean a dial and nothing else. These three add a digital thermostat, a remote and a child lock to the same slow, silent, fan-free heat. What the upgrade actually changes.",
+      "category": "Roundup",
+      "hero": "hero-best-oil-filled-radiator-heaters",
+      "minutes": 15,
+      "date": "2026-11-18",
+      "featured": true
     }
   ]
 }
