@@ -420,6 +420,16 @@
       "minutes": 15,
       "date": "2026-11-18",
       "featured": true
+    },
+    {
+      "slug": "mica-panel-vs-ceramic-vs-quartz-infrared",
+      "title": "Mica Panel, Ceramic or Quartz Infrared: A Third Way to Compare Heaters",
+      "description": "Ceramic, infrared and oil-filled is not the only three-way split in this category. A WiFi mica panel, a quiet oscillating ceramic tower and a quartz infrared unit show a second axis: radiant panel versus moving air versus a glowing element.",
+      "category": "Comparison",
+      "hero": "hero-mica-panel-vs-ceramic-vs-quartz-infrared",
+      "minutes": 17,
+      "date": "2026-11-19",
+      "featured": true
     }
   ]
 }
