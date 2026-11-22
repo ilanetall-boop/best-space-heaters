@@ -450,6 +450,16 @@
       "minutes": 16,
       "date": "2026-11-21",
       "featured": true
+    },
+    {
+      "slug": "space-heater-energy-saving-claims-fact-checked",
+      "title": "Space Heater 'Energy Saving' Claims, Fact-Checked",
+      "description": "Every plug-in space heater converts electricity to heat at close to 100 percent efficiency, so 'energy saving' on the box is describing something else entirely. Three heaters that use the label, and what each one is actually claiming.",
+      "category": "Honest take",
+      "hero": "hero-space-heater-energy-saving-claims-fact-checked",
+      "minutes": 15,
+      "date": "2026-11-22",
+      "featured": true
     }
   ]
 }
