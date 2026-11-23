@@ -460,6 +460,16 @@
       "minutes": 15,
       "date": "2026-11-22",
       "featured": true
+    },
+    {
+      "slug": "lasko-and-pelonis-tower-heaters-compared",
+      "title": "Lasko and PELONIS Tower Heaters: How the Legacy Brands Compare",
+      "description": "Lasko and PELONIS were making tower heaters before WiFi and app control existed, and they still sell plenty without either. Three models from sixteen to thirty inches, and what the extra height and the extra forty dollars actually buy.",
+      "category": "Comparison",
+      "hero": "hero-lasko-and-pelonis-tower-heaters-compared",
+      "minutes": 15,
+      "date": "2026-11-23",
+      "featured": true
     }
   ]
 }
