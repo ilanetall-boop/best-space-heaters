@@ -470,6 +470,16 @@
       "minutes": 15,
       "date": "2026-11-23",
       "featured": true
+    },
+    {
+      "slug": "cheapest-wifi-controlled-space-heaters",
+      "title": "The Cheapest Way Into a WiFi-Controlled Space Heater",
+      "description": "A $130 smart wall heater isn't the only app-enabled option in this catalogue. Three floor heaters between $35 and $70 add WiFi or voice control without the installation, and what gets cut to hit that price.",
+      "category": "Buying guide",
+      "hero": "hero-cheapest-wifi-controlled-space-heaters",
+      "minutes": 13,
+      "date": "2026-11-24",
+      "featured": true
     }
   ]
 }
