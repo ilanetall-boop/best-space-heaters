@@ -480,6 +480,16 @@
       "minutes": 13,
       "date": "2026-11-24",
       "featured": true
+    },
+    {
+      "slug": "name-brand-space-heaters-worth-the-price",
+      "title": "Vornado, EdenPURE and De'Longhi: What a Recognizable Name Adds to a Space Heater's Price",
+      "description": "Most of this catalogue comes from marketplace brands nobody has heard of outside Amazon. These three come from companies that sold heaters before Amazon existed, at three very different prices — $74.99, $189.95 and $272.",
+      "category": "Comparison",
+      "hero": "hero-name-brand-space-heaters-worth-the-price",
+      "minutes": 15,
+      "date": "2026-11-25",
+      "featured": true
     }
   ]
 }
