@@ -490,6 +490,16 @@
       "minutes": 15,
       "date": "2026-11-25",
       "featured": true
+    },
+    {
+      "slug": "wall-heaters-with-an-ip-rating-explained",
+      "title": "Only One Wall Heater Here Publishes an IP Rating. Does It Matter?",
+      "description": "DREO's IP24 wall heater is the only one in the catalogue that states a water-resistance rating. Two similarly priced wall heaters next to it say nothing about moisture at all — what that silence does and doesn't mean.",
+      "category": "Buying guide",
+      "hero": "hero-wall-heaters-with-an-ip-rating-explained",
+      "minutes": 17,
+      "date": "2026-11-26",
+      "featured": true
     }
   ]
 }
